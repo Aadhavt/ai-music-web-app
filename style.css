@@ -1,0 +1,38 @@
+.heading{
+    margin:0px;
+    width: 100%;
+    font-size: 25px;
+}
+.btn-info{
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+.disc{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.btn-danger{
+    margin: 15px;
+    font-size: 23px;
+}
+.play{
+    width: 130px;
+    font-size: 25px;
+}
+.stop{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border:5px solid black;
+    border-radius: 20px;
+}
